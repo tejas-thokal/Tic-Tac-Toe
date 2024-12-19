@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-my first project
+My first project
 
 A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. This classic game allows two players to compete and displays the winner or a draw at the end. Players can reset the game anytime to play again.
 
